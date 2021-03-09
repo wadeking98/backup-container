@@ -5,7 +5,7 @@
 #=========================================================
 # NAME=backup-postgres
 # SOURCE_IMAGE_NAME=backup-postgres
-# IMAGE_NAMESPACE=devex-von-image-tools
+# IMAGE_NAMESPACE=bztwou-tools
 TAG_NAME=dev
 # DATABASE_SERVICE_NAME=
 # DATABASE_NAME=
